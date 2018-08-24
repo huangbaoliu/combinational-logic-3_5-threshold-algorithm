@@ -1,2 +1,4 @@
-# combinational-logic-3_5-threshold-algorithm
-# combinational-logic-3_5-threshold-algorithm
+# to compile code on a linux mechine
+#gcc *.c -o main
+# to execute 
+#./main
